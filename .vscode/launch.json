@@ -9,7 +9,7 @@
             "type": "python",
             "request": "launch",
             "program": "${file}",
-            "args": ["-r", "-x", "./photosort/slozka_fotek_x", "./photosort/photos"]
+            "args": ["-x", "-m", "./hw_photosort/slozka_fotek_x", "./hw_photosort/photos"]
             "console": "integratedTerminal"
         }
     ]
